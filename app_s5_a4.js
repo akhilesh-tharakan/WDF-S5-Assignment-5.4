@@ -1,5 +1,5 @@
 /* This is the script file from where we are passing the value */	
-/* Session 5 Assignment 2 */
+/* Session 5 Assignment 4 */
 	
 	
 	var employee =[
